@@ -1,2 +1,3 @@
-# open-abap-srfc
-Scaffolded tRFC + qRFC + bgRFC stuff
+# shims-rfc
+
+Shims for tRFC + qRFC + bgRFC
