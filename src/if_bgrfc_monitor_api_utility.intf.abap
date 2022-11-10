@@ -1,0 +1,3 @@
+INTERFACE if_bgrfc_monitor_api_utility PUBLIC.
+
+ENDINTERFACE.
